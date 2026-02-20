@@ -14,7 +14,7 @@ Official smart contracts for Marengo-Argos (MGRS) deployed on BNB Chain.
 
 Network: BNB Smart Chain  
 Contract Name: MGRS  
-Contract Address: 0xXXXXXXXXXXXX  
+Contract Address: 0xBE43f0E1B622AD953166f7777d59426EcDF4e1d4  
 BscScan: https://bscscan.com/token/0xBE43f0E1B622AD953166f7777d59426EcDF4e1d4  
 
 Source code is verified and matches the deployed bytecode.
